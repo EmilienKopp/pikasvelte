@@ -5,6 +5,17 @@ Pikaday
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
+## ❤️ Final Update (August 2025)
+
+We’ve decided to archive the Pikaday repository on GitHub. The project has not been actively maintained for years.
+
+Pikaday was started before `<input type="date">` was supported in browsers and before custom elements and component frameworks. Pikaday is probably not the right choice today.
+
+Thank you to everyone who reported issues and contributed code :)
+
+* * *
+
+## Original README
 
 ### A refreshing JavaScript Datepicker
 
